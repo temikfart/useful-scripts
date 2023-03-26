@@ -3,7 +3,7 @@
 
 #### Table of contents
 
-1. [git-init.sh](
+1. [git-init.sh](#git-init)
 
 
 ### git-init
